@@ -1329,29 +1329,26 @@ a {
   width: 100%;
   object-fit: cover;
 }
-.cid-sFGTcFRqw0 {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+.cid-uZIdbEtEUe {
+  padding-top: 90px;
+  padding-bottom: 90px;
   background-color: #ffffff;
 }
-.cid-sFGTcFRqw0 .mbr-overlay {
-  background-color: #ffffff;
-  opacity: 0.4;
+.cid-uZIdbEtEUe .title {
+  margin-bottom: 2rem;
 }
-.cid-sFGTcFRqw0 form .mbr-section-btn {
-  text-align: center;
-  width: 100%;
+.cid-uZIdbEtEUe .mbr-section-subtitle {
+  color: #767676;
 }
-.cid-sFGTcFRqw0 form .mbr-section-btn .btn {
-  display: inline-flex;
+.cid-uZIdbEtEUe a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
 }
-@media (max-width: 991px) {
-  .cid-sFGTcFRqw0 form .mbr-section-btn .btn {
-    width: 100%;
-  }
+.cid-uZIdbEtEUe a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
 }
-.cid-sFGTcFRqw0 textarea {
-  min-height: 10rem;
+.cid-uZIdbEtEUe textarea.form-control {
+  min-height: 188px;
 }
 .cid-uXR3XpPzUC {
   padding-top: 75px;
